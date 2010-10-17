@@ -1,0 +1,9 @@
+<Context>
+	<Parameter name="run_tests_on_server" value="false" override="false"/>
+	<Parameter name="run_tests_in_place" value="true" override="false"/>
+	<Parameter name="test_context_base_path"
+			   value="/home/krite/Development/Workspace_IDEA_9/spring-mock-demo" override="false"/>
+	<Parameter name="test_context_base_path_ant"
+			   value="/home/krite/Development/Workspace_IDEA_9/spring-mock-demo/java_build_output" override="false"/>
+
+</Context>
